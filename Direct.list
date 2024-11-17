@@ -28,13 +28,13 @@ DOMAIN-SUFFIX,dnsany.com
 ## TPTV 江苏移动魔百盒
 DOMAIN-SUFFIX,mobaibox.com
 IP-CIDR,183.207.0.0/16,no-resolve
-## YSP 央视频
-DOMAIN-SUFFIX,cctv.cn
-DOMAIN-SUFFIX,yangshipin.cn
 ## ITV 移动 iTV
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,chinamobile.com
+## YSP 央视频
+DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,yangshipin.cn
 
 
 # 360
