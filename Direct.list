@@ -23,13 +23,12 @@ DOMAIN-KEYWORD,ghp
 
 
 # pixman IPTV (网络电视)
-DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,dnsany.com
 ## TPTV 江苏移动魔百盒
 DOMAIN-SUFFIX,mobaibox.com
+DOMAIN-SUFFIX,gitv.com
 IP-CIDR,183.207.0.0/16,no-resolve
 ## ITV 移动 iTV
-DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,chinamobile.com
 ## YSP 央视频
