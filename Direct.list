@@ -1,11 +1,15 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-
+#*********************************************************
 # 局域网 IP
+#*********************************************************
 IP-CIDR,192.168.0.0/16,no-resolve
 IP-CIDR,10.0.0/8,no-resolve
 IP-CIDR,172.16.0.0/12,no-resolve
 
+#*********************************************************
+# Custom
+#*********************************************************
 
 # MyList
 # 域名后缀匹配
@@ -15,12 +19,6 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
-
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,mirror
-DOMAIN-KEYWORD,ghp
-
 
 # pixman IPTV (网络电视)
 DOMAIN-SUFFIX,dnsany.com
