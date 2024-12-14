@@ -36,3 +36,6 @@ IP-CIDR,45.11.45.11/32,no-resolve
 DOMAIN-SUFFIX,informa.com
 DOMAIN-SUFFIX,eloqua.com
 DOMAIN-KEYWORD,informa
+
+# Minecraft
+DOMAIN-SUFFIX,mojang.com
